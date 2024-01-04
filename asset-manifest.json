@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.9855836c.css",
+    "main.js": "/Portfolio/static/js/main.b1afd255.js",
+    "static/js/787.7da95b79.chunk.js": "/Portfolio/static/js/787.7da95b79.chunk.js",
+    "static/media/backgroungimage.jpg": "/Portfolio/static/media/backgroungimage.1bd183eeefdc75272c28.jpg",
+    "static/media/share-tech-mono-latin-400.woff": "/Portfolio/static/media/share-tech-mono-latin-400.4849e72acfdd1708873e.woff",
+    "static/media/share-tech-mono-latin-400.woff2": "/Portfolio/static/media/share-tech-mono-latin-400.ebf921e9e97043f947d0.woff2",
+    "index.html": "/Portfolio/index.html",
+    "main.9855836c.css.map": "/Portfolio/static/css/main.9855836c.css.map",
+    "main.b1afd255.js.map": "/Portfolio/static/js/main.b1afd255.js.map",
+    "787.7da95b79.chunk.js.map": "/Portfolio/static/js/787.7da95b79.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9855836c.css",
+    "static/js/main.b1afd255.js"
+  ]
+}
